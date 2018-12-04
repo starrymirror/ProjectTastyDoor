@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/edit.c
-stdio.h
--
-
-C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/ingridienser.h
-
-C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/main.c
-stdio.h
--
-ingridienser.h
 C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/ingridienser.h
 
 C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/recipe.c
 stdio.h
 -
+stdlib.h
+-
+ingridienser.h
+C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/ingridienser.h
 

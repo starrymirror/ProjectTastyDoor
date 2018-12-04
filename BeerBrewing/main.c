@@ -9,7 +9,7 @@ int main()
     while (1) {
         MenuChoice = 0;
         puts("greetings and welcome to Egeland's beer brewing terminal");
-        puts("you are in the menu\nto navegate in this menu use numbers 1-3");
+        puts("you are in the menu\nto navigate in this menu use numbers 1-3");
         puts("1. recipe\n2. edit recipe\n3. exit");
 
 
