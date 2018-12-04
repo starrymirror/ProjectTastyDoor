@@ -1,0 +1,3 @@
+C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/cmake-build-debug/CMakeFiles/BeerBrewing.dir
+C:/Users/vegar/DataStuff/c/ProjectTastyDoor/BeerBrewing/cmake-build-debug/CMakeFiles/edit_cache.dir
