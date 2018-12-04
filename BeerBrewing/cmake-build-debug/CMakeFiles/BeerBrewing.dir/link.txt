@@ -1,3 +1,0 @@
-C:\Users\vegar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.3911.40\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\BeerBrewing.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\BeerBrewing.dir/objects.a @CMakeFiles\BeerBrewing.dir\objects1.rsp
-C:\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\BeerBrewing.dir/objects.a -Wl,--no-whole-archive  -o BeerBrewing.exe -Wl,--out-implib,libBeerBrewing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BeerBrewing.dir\linklibs.rsp
